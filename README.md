@@ -1,4 +1,3 @@
-# Majin Retail Analytics
 <p align="center">
   <img src="assets/majin-logo.PNG" alt="Project Banner" width="1200">
 </p>
