@@ -1,5 +1,7 @@
 # Majin Retail Analytics
-
+<p align="center">
+  <img src="https://github.com/alfimerino/majin-retail-analytics/blob/MJ-104-Visualize-Spring-2025-performance-for-Majin-Stakeholders/assets/majin-logo.PNG" alt="Project Banner" width="1200">
+</p>
 **Transforming raw POS transaction logs into actionable promotional performance insights.**
 
 Majin Retail Analytics is a data pipeline and analytics project that ingests messy point-of-sale (POS) data, applies business-specific cleaning rules, computes core financial & sales KPIs, and delivers an interactive dashboard for stakeholders to evaluate promotional campaign performance (starting with Spring 2025 / previous year results).
@@ -9,6 +11,8 @@ Currently in early development — focused on delivering the first end-to-end MV
 ## 🎯 Current Milestone (MJ - Spring 2025 Campaign Retrospective)
 
 **Goal**: Transform raw POS logs into a cleaned, interactive dashboard to evaluate last year’s promo performance.
+
+<img src="https://github.com/alfimerino/majin-retail-analytics/blob/MJ-104-Visualize-Spring-2025-performance-for-Majin-Stakeholders/assets/Majin%20Spring%20Dashboard%20Screenshot.jpg" alt="Project Banner" width="1200">
 
 Key deliverables in progress:
 - Project setup & tooling (MJ-101)
