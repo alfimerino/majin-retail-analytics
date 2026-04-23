@@ -42,15 +42,11 @@ Future directions (post-MVP):
 
 ## Tech Stack (current & planned)
 
-- **Language**: 
-- **Data processing**: 
-- **Cleaning & validation**: 
-- **Metrics & modeling**: 
-- **Visualization / Dashboard**: 
+- **Data processing**: Excel 
+- **Cleaning & validation**: Power BI
+- **Metrics & modeling**: Power BI
+- **Visualization / Dashboard**: Power BI
 - **Version control & collaboration**: Git + GitHub
-- **Future additions**: 
-
-(Exact stack will be finalized in MJ-101 – Project Setup)
 
 ## Getting Started
 
