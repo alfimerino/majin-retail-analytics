@@ -7,7 +7,7 @@ Majin Retail Analytics is a data pipeline and analytics project that ingests mes
 
 Currently in early development — focused on delivering the first end-to-end MVP: clean data → core metrics → stakeholder-facing dashboard.
 
-## 🎯 Current Milestone (MJ - Spring 2025 Campaign Retrospective)
+## Current Milestone (MJ - Spring 2025 Campaign Retrospective)
 
 **Goal**: Transform raw POS logs into a cleaned, interactive dashboard to evaluate last year’s promo performance.
 
@@ -21,7 +21,7 @@ Key deliverables in progress:
 
 → [View milestone on GitHub](https://github.com/alfimerino/majin-retail-analytics/milestone/1)
 
-## ✨ Features (Planned / In Progress)
+## Features (Planned / In Progress)
 
 - Ingestion & cleaning of raw POS transaction logs
 - Application of domain-specific business validation rules
@@ -40,7 +40,7 @@ Future directions (post-MVP):
 - Scheduled ETL / dbt-style transformations
 - Deployment (Docker + cloud hosting)
 
-## 🛠️ Tech Stack (current & planned)
+## Tech Stack (current & planned)
 
 - **Language**: 
 - **Data processing**: 
@@ -52,7 +52,7 @@ Future directions (post-MVP):
 
 (Exact stack will be finalized in MJ-101 – Project Setup)
 
-## 🚀 Getting Started
+## Getting Started
 
 (Section will be completed once project setup is done)
 
